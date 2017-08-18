@@ -30,12 +30,12 @@ Licence URI: http://www.os-templates.com/template-terms
             <div id="pageintro" class="hoc clear">
                 <article> 
 
-                    <h3 class="heading">Lobortis faucibus libero</h3>
-                    <p>Vivamus at quam non est dignissim auctor id quis enim nullam velit urna mollis non purus a maecenas facilisis</p>
-                    <p class="font-x1 uppercase bold">Lacus nec ligula rutrum feugiat</p>
+                    <h3 class="heading">Você já sabe o que é heatmap?</h3>
+                    <p>É um mapa de calor que apresenta as informações através das cores. Com ele, você consegue visualizar melhor seus dados de um jeito fácil e prático em mapas geográficos.</p>
+                    <!--<p class="font-x1 uppercase bold">Lacus nec ligula rutrum feugiat</p>-->
                     <footer>
                         <ul class="nospace inline pushright">
-                            <li><a class="btn" href="#">Know more</a></li>
+                            <li><a class="btn" href="#">Clique aqui e saiba mais</a></li>
                         </ul>
                     </footer>
                 </article>
@@ -46,7 +46,7 @@ Licence URI: http://www.os-templates.com/template-terms
             <main class="hoc container clear"> 
                 <!-- main body --> 
                 <div class="sectiontitle" id="tools">
-                    <h6 class="heading">Vitae imperdiet dolor</h6>
+                    <h6 class="heading">Conheça as funcionalidades</h6>
                     <p>Semper amet et nibh consectetur faucibus ex ac iaculis odio mauris orci ipsum</p>
                 </div>
                 <ul class="nospace group center">

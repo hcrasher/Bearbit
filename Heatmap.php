@@ -33,23 +33,18 @@ Licence URI: http://www.os-templates.com/template-terms
         <?php
         include 'modules/header.php';
         ?>
-
-
-        <div class="wrapper row3">
-            <main class="hoc container clear"> 
+       <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d14634.520870123715!2d-46.48257895!3d-23.5098251!3m2!1i1024!2i768!4f13.1!5e0!3m2!1spt-BR!2sbr!4v1503280592734" width="1800" height="800" frameborder="0" style="border:0" allowfullscreen></iframe>
+       
+        <!--<div class="wrapper row3">-->
+            <!--<main class="hoc container clear"> -->
                 <!-- main body --> 
 
-                <div class="content"> 
-
-                    <h2>Half</h2>
-                    <div id="map"></div>
-                </div>
-
-                <script type="text/javascript" src="AppThemes/js/maps.js"></script>
+                <!--<div class="content"> -->
+                <!--</div>-->
                 <!-- / main body -->
-                <div class="clear"></div>
-            </main>
-        </div>
+                <!--<div class="clear"></div>-->
+            <!--</main>-->
+        <!--</div>-->
         <?php
         include 'modules/footer.php';
         ?>

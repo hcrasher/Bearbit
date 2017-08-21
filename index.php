@@ -31,11 +31,11 @@ Licence URI: http://www.os-templates.com/template-terms
                 <article> 
 
                     <h3 class="heading">Você já sabe o que é heatmap?</h3>
-                    <p>É um mapa de calor que apresenta as informações através das cores. Com ele, você consegue visualizar melhor seus dados de um jeito fácil e prático em mapas geográficos.</p>
+                    <p>É um mapa de calor que apresenta as informações através das cores. Com ele, você consegue visualizar melhor seus dados de um jeito fácil e prático através de mapas geográficos.</p>
                     <!--<p class="font-x1 uppercase bold">Lacus nec ligula rutrum feugiat</p>-->
                     <footer>
                         <ul class="nospace inline pushright">
-                            <li><a class="btn" href="#">Clique aqui e saiba mais</a></li>
+                            <li><a class="btn" href="o-que-e-heatmap.php">Clique aqui e saiba mais</a></li>
                         </ul>
                     </footer>
                 </article>
@@ -46,32 +46,31 @@ Licence URI: http://www.os-templates.com/template-terms
             <main class="hoc container clear"> 
                 <!-- main body --> 
                 <div class="sectiontitle" id="tools">
-                    <h6 class="heading">Conheça as funcionalidades</h6>
-                    <p>Semper amet et nibh consectetur faucibus ex ac iaculis odio mauris orci ipsum</p>
+                    <h6 class="heading">Conheça suas funcionalidades</h6>
                 </div>
                 <ul class="nospace group center">
                     <li class="one_quarter first">
                         <article><a href="#"><i class="icon btmspace-30 fa fa-language"></i></a>
-                            <h6 class="heading font-x1">Vel iaculis tortor</h6>
-                            <p>Imperdiet interdum ut convallis eu sed tortor nunc auctor nec turpis quis dapibus&hellip;</p>
+                            <h6 class="heading font-x1">Utilize os <strong>seus</strong> dados</h6>
+                            <p>Após a importação, eles poderão ser visualizados dentro do mapa.</p>
                         </article>
                     </li>
                     <li class="one_quarter">
                         <article><a href="#"><i class="icon btmspace-30 fa fa-adjust"></i></a>
-                            <h6 class="heading font-x1">Phasellus tristique</h6>
-                            <p>Integer mollis risus vel enim lobortis ornare phasellus imperdiet sapien tristique&hellip;</p>
+                            <h6 class="heading font-x1">Visualize facilmente</h6>
+                            <p>Eles serão visualizados dentro do mapa geográfico utilizando o heatmap.</p>
                         </article>
                     </li>
                     <li class="one_quarter">
                         <article><a href="#"><i class="icon btmspace-30 fa fa-low-vision"></i></a>
-                            <h6 class="heading font-x1">Lobortis velit ac</h6>
-                            <p>Ullamcorper pulvinar lectus lacus porttitor eros non auctor orci felis in velit sed&hellip;</p>
+                            <h6 class="heading font-x1">Heatmap</h6>
+                            <p>O heatmap é um mapa de calor que exibe a incidencia através das cores, facilitando na tomada de decisão da sua empresa.</p>
                         </article>
                     </li>
                     <li class="one_quarter">
                         <article><a href="#"><i class="icon btmspace-30 fa fa-blind"></i></a>
-                            <h6 class="heading font-x1">Lectus aliquet sit</h6>
-                            <p>Sodales nunc a congue metus cras id orci in tellus congue viverra ut purus sapien&hellip;</p>
+                            <h6 class="heading font-x1">Relatórios</h6>
+                            <p>Dentro do mapa você consegue filtrá-lo e exportar relatórios com as informações que você solicitar.</p>
                         </article>
                     </li>
                 </ul>
@@ -83,13 +82,14 @@ Licence URI: http://www.os-templates.com/template-terms
         <div class="wrapper bgded" style="background-image:url('AppThemes/images/brazil_map.png');">
             <div class="hoc split clear">
                 <section style="float:left !important; ">
-                    <p class="nospace font-xs">Etiam in sem facilisis aliquet</p>
-                    <h6 class="heading">Interdum augue facilisis</h6>
-                    <p class="btmspace-30">Risus semper vestibulum leo at dignissim felis aliquam porta diam magna in cursus diam accumsan eget nulla accumsan dui libero facilisis convallis.</p>
+                    <p class="nospace font-xs">Por que utilizar o </p>
+                    <h6 class="heading">Mapa Geográfico?</h6>
+                    <p class="btmspace-30">Através do nosso banco, com as latitudes e longitudes de cada cidade do Brasil, é possível visualizar qualquer informação importada ao Aplicativo.
+                    Após a inserção dos dados ao site, estes serão processados e gerarão o heatmap.</p>
                     <ul class="fa-ul">
-                        <li><i class="fa-li fa fa-check-circle"></i> Velit tempor vitae ut ante quis magna porta</li>
-                        <li><i class="fa-li fa fa-check-circle"></i> Placerat nulla at mi maximus lobortis nunc sagittis</li>
-                        <li><i class="fa-li fa fa-check-circle"></i> Maximus eget at turpis sed nisl a dui ornare viverra</li>
+                        <li><i class="fa-li fa fa-check-circle"></i> Ideal para visualização de grande volume de dados.</li>
+                        <li><i class="fa-li fa fa-check-circle"></i> Os dados são visualizados de forma visual, e as cores auxilião na percepcção de informação.</li>
+                        <li><i class="fa-li fa fa-check-circle"></i> Cada cor representa os indíces de incidência da informação obtida.</li>
                     </ul>
 
                 </section>
@@ -98,13 +98,13 @@ Licence URI: http://www.os-templates.com/template-terms
         <div class="wrapper bgded" style="background-image:url('AppThemes/images/graphs.png'); background-color:#e1e1e1;">
             <div class="hoc split clear">
                 <section>
-                    <p class="nospace font-xs">Etiam in sem facilisis aliquet</p>
-                    <h6 class="heading">Interdum augue facilisis</h6>
-                    <p class="btmspace-30">Risus semper vestibulum leo at dignissim felis aliquam porta diam magna in cursus diam accumsan eget nulla accumsan dui libero facilisis convallis.</p>
+                    <p class="nospace font-xs">Por que gerar</p>
+                    <h6 class="heading">relatórios?</h6>
+                    <p class="btmspace-30">A partir dos dados importados e dos filtros selecionados no mapa geográfico, é possível gerar relatórios em <i>.pdf</i></p>
                     <ul class="fa-ul">
-                        <li><i class="fa-li fa fa-check-circle"></i> Velit tempor vitae ut ante quis magna porta</li>
-                        <li><i class="fa-li fa fa-check-circle"></i> Placerat nulla at mi maximus lobortis nunc sagittis</li>
-                        <li><i class="fa-li fa fa-check-circle"></i> Maximus eget at turpis sed nisl a dui ornare viverra</li>
+                        <li><i class="fa-li fa fa-check-circle"></i> Podendo ser utilizados em apresentações.</li>
+                        <li><i class="fa-li fa fa-check-circle"></i> Conteúdo de fácil leitura, podendo ser vistos em kindles e até impresso.</li>
+                        <li><i class="fa-li fa fa-check-circle"></i> Após gerados, não é necessário o processamento do seu dispositivo.</li>
                     </ul>
 
                 </section>
@@ -112,8 +112,8 @@ Licence URI: http://www.os-templates.com/template-terms
         </div>
         <div class="wrapper coloured overlay bgded" style="background-image:url('images/demo/backgrounds/03.png');">
             <article class="hoc cta clear">
-                <h6 class="three_quarter first">Suscipit fusce faucibus mi sed rutrum facilisis</h6>
-                <footer class="one_quarter"><a class="btn" href="#">Ullamcorper augue &raquo;</a></footer>
+                <h6 class="three_quarter first">Conheça a nossa equipe</h6>
+                <!--<footer class="one_quarter"><a class="btn" href="#">Aqui</a></footer>-->
             </article>
         </div>
         <div class="wrapper row3">
@@ -121,24 +121,31 @@ Licence URI: http://www.os-templates.com/template-terms
                 <ul id="testimonials" class="nospace group">
                     <li class="one_third first">
                         <figure><img class="circle" src="AppThemes/images/60x60.png" alt="">
-                            <figcaption><strong>A.Doe</strong><br>
-                                <em>Position, Company Name</em></figcaption>
+                            <figcaption><strong>Lívia Oliveira</strong><br>
+                                <em>Front-end developer, BearBit</em></figcaption>
                         </figure>
-                        <blockquote>Eros metus ornare et est at fermentum cursus nisi nulla at consectetur turpis suspendisse rhoncus est ipsum nec venenatis nulla gravida et integer quis ligula volutpat vehicula nisl quis suscipit turpis curabitur dictum maximus molestie cum sociis natoque penatibus et magnis dis.</blockquote>
+                        <blockquote>Amante de design, é a responsável pelo design do website focando em UX. </blockquote>
                     </li>
                     <li class="one_third">
                         <figure><img class="circle" src="AppThemes/images/60x60.png" alt="">
-                            <figcaption><strong>B.Doe</strong><br>
-                                <em>Position, Company Name</em></figcaption>
+                            <figcaption><strong>Milene Mayumi</strong><br>
+                                <em>Gerente de Projetos, BearBit</em></figcaption>
                         </figure>
-                        <blockquote>Montes nascetur ridiculus mus maecenas sit amet aliquam dolor quisque felis ligula aliquam ac dolor sit amet sodales interdum massa aliquam ut quam finibus mattis neque a lobortis tortor sed fringilla sodales magna et mollis sem maximus ut fusce non ultricies erat integer euismod justo.</blockquote>
+                        <blockquote>Com muito foco e dedicação, é a responsável pelo projeto BearBit como um todo.</blockquote>
                     </li>
                     <li class="one_third">
                         <figure><img class="circle" src="AppThemes/images/60x60.png" alt="">
-                            <figcaption><strong>C.Doe</strong><br>
-                                <em>Position, Company Name</em></figcaption>
+                            <figcaption><strong>Pedro Zingra</strong><br>
+                                <em>Back-end developer, BearBit</em></figcaption>
                         </figure>
-                        <blockquote>Eu sapien blandit dictum nullam turpis diam viverra sit amet ex ac laoreet condimentum nisi maecenas venenatis mauris eget dignissim lobortis proin vitae odio blandit mi dapibus volutpat mauris malesuada ornare velit quis ultrices mauris pretium sed fusce pharetra faucibus purus eget.</blockquote>
+                        <blockquote>Louco por tecnologia, é o responsável por toda funcionalidade do sistema da BearBit.</blockquote>
+                    </li>
+                    <li class="one_third">
+                        <figure><img class="circle" src="AppThemes/images/60x60.png" alt="">
+                            <figcaption><strong>Yan Richarde</strong><br>
+                                <em>Analista, BearBit</em></figcaption>
+                        </figure>
+                        <blockquote>Pensando no ontem, hoje e amanhã, é o responsável por pensar em cada resultado de cada função da BearBit, para deixar cada processamento o mais rápido possível.</blockquote>
                     </li>
                 </ul>
             </div>

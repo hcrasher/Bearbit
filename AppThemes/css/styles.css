@@ -1,0 +1,82 @@
+/*
+Edição feita por Bearbit
+*/
+div .form label{
+    font-size:1em;
+    margin-top:2em;
+}
+div .form input,select{
+    margin-bottom:10px;
+    width:85%;
+    border-color:#BEBEBE;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1em;
+    padding-left:1em;
+    box-shadow: #EEE9E9 0em 4px 1em;
+    height:2em;
+}
+div .form input:focus,select:focus{
+    border-color:#00CED1;
+}
+
+input[type=radio]{
+    display:-webkit-inline-box;
+    width: 1.5em;
+    height: 1.5em;
+}
+
+div .form input[type=submit]{
+    box-shadow: #EEE9E9 0 0 0em;
+    background-color:#00CED1;
+    color:#FFFFFF;
+    margin-top:2em;
+}
+div .form input[type=submit]:hover{
+    background-color:#5F9EA0;
+}
+
+div .form input.little,select.little{
+    width:25%;
+}
+
+div .plans,.plansbest{
+    width:25%;
+    display: inline-block;
+    background-color:#EEE9E9;
+    height:20em;
+    text-align: center;
+}
+
+div .plans ul li,.plansbest ul li{
+    text-align: left;
+}
+
+div .plans img,.plansbest img{
+    width:40%;
+}
+
+div .plansbest{
+    background-color:#BEBEBE;
+}
+
+div .planspage .plans,.plansbest{
+    height:50em;
+}
+
+
+.linha-vertical {
+  height: 300px;/*Altura da linha*/
+  border-left: 1px solid;/* Adiciona borda esquerda na div como ser fosse uma linha.*/
+  position:absolute;
+  margin-left:-3em;
+  border-color:#BEBEBE;
+}
+
+.cleardiv{
+    margin: 3em 0 0 3em;
+}
+
+div .none{
+    display:none;
+}

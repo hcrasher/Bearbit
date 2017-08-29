@@ -1,5 +1,6 @@
 <div class="bgded" style="background-color:#F2F2F2;"> 
-   
+<link href="AppThemes/css/layout.css" rel="stylesheet" type="text/css" media="all">
+<link href="AppThemes/css/styles.css" rel="stylesheet" type="text/css" media="all">
 <div class="wrapper row1">
     <header id="header" class="hoc clear"> 
         <div id="logo" class="fl_left">
